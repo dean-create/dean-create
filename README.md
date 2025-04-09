@@ -1,2 +1,1 @@
-#INTP
-##coding
+INTP
